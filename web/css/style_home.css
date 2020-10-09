@@ -1,0 +1,29 @@
+@charset "utf-8";
+* {
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif kartika;
+	text-align: center;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+	color: darkgray;
+}
+a:hover{
+	text-decoration: underline;
+	color: orangered;
+}
+body{
+	width: 80%;
+	margin: auto;
+}
+#headerBox .home_top{
+	float: left;
+	width: 100%;
+	height: 20px;
+	padding: 10px 5px;
+	background:#222222 ;
+}
